@@ -12,6 +12,21 @@ h1, h2, h3, h4 {
     font-weight: 600;
 }
 
+nav h1 {
+    margin: 0;
+}
+
+nav h1 span.mytitle {
+    border-top: 1px solid #FFF;
+    display: block;
+    font-size: 0.375em;
+    font-weight: normal;
+    letter-spacing: 0.125em;
+    line-height: 1.75em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
 h5 {
     color: #000;
     font-weight: 600;
